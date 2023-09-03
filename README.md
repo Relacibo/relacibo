@@ -1,3 +1,3 @@
 # 👋 Willkommen
 
-[Links](relacibo.github.io)
+[Links](https://relacibo.github.io/)
