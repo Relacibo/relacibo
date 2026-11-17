@@ -7,13 +7,17 @@
 
 📡 Die offizielle Homepage: **[relacibo.github.io](https://relacibo.github.io/)**
 
-| Tag | Deine Reise |
-|-----|-------------|
-| 1   | Gemini einrichten — Einwahl über Cisco Systems, akustisch überprüfbar |
-| 2   | Profi-Mikrofon mit Cinch-Anschluss bestellen |
-| 3–61 | KI-Visionär-Positionierung auf LinkedIn |
-| 62  | Mikrofon an Gemini anschließen |
-| 63  | Der KI prompten: eigene KI-Beratungs-Website. Fertig! |
+## 🌐 KI-Hype-Webring #0000001 — Übersicht
+
+**Mitglied Nr. 1: [Relacibo's KI-Beratung](https://relacibo.github.io/)** — der Ring ist
+geschlossen. Egal, in welche Richtung Sie klicken: Sie landen hier. Das ist kein Bug,
+das ist die Methode™.
+
+| Richtung | Ziel |
+|----------|------|
+| « Zurück | [relacibo.github.io](https://relacibo.github.io/) |
+| Zufällig | [relacibo.github.io](https://relacibo.github.io/) |
+| Weiter » | [relacibo.github.io](https://relacibo.github.io/) |
 
 📹 Das Onboarding per Cisco WebEx über die 56k-Einwahl — bitte Geduld beim Bildaufbau.
 
