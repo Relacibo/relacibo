@@ -1,3 +1,3 @@
-Es ist aktuell 1 Mitglied im [KI-Hype-Webring](https://relacibo.github.io/).
+Es sind aktuell 1 Mitglieder im KI-Hype-Webring.
 
-#00000001 - Relacibo
+#00000001 - [Relacibo](https://github.com/Relacibo)
